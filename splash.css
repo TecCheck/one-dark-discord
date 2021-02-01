@@ -3,16 +3,16 @@
 }
 
 .progress .progress-bar {
-    background-color: #292929;
+    background-color: #282c34;
 }
 .progress .progress-bar .complete {
-    background-color: white;
+    background-color: #98c379;
 }
 #splash .splash-inner-dl .dl-select-frame .Select-control {
-    background: #141414;
-    border-color: #191919;
+    background: #282c34;
+    border-color: #282c34;
 }
 #splash .splash-inner-dl .dl-select-frame .Select-menu-outer {
-    background: #141414;
-    border-color: #191919;
+    background: #282c34;
+    border-color: #282c34;
 }
